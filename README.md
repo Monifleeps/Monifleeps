@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Monifleeps
-- 👀 I’m interested in coding in python,java ,cyber security
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning python,java ,cyber security
 
 <!---
